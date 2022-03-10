@@ -1,4 +1,6 @@
-# Bash Scripts: Service menu
+---: Service Menu
+---
+# Bash Scripting: Service menu
 
 > Stopping and starting services and docker containers can be a pain, so i created a script to make it less irritating and boring to do.
 

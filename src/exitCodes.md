@@ -1,3 +1,5 @@
+---: Exit Codes
+---
 # Bash Scripting - Exit Codes
 
 ## What is an exit code?

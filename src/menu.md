@@ -1,4 +1,6 @@
-# Bash - Create a Menu
+---: Create a menu
+---
+# Bash Scripting - Create a Menu
 
 I'm going to create a menu to start / Stop and get the status for the services / Containers available on the server
 
