@@ -156,7 +156,7 @@ DISABLE_AUTO_UPDATE=true
 
 If you'd like to upgrade at any point in time (maybe someone just released a new plugin and you don't want to wait a week?) you just need to run:
 
-``shell
+```shell
 upgrade_oh_my_bash
 Magic!
 ```
