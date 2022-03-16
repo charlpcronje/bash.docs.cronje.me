@@ -1,4 +1,5 @@
----: Create a menu
+---
+title: Create a menu
 ---
 # Bash Scripting - Create a Menu
 
