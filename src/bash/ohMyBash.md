@@ -165,4 +165,4 @@ Magic!
 
 Oh My Bash isn't for everyone. We'll miss you, but we want to make this an easy breakup.
 
-If you want to `uninstall` `oh-my-bash`, just run `uninstall_oh_my_bash` from the `command-line`. It will remove itself and revert your previous bash configuration.
+If you want to `uninstall oh-my-bash`, just run `uninstall_oh_my_bash` from the `command-line`. It will remove itself and revert your previous bash configuration.
