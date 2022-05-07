@@ -1,5 +1,5 @@
 ---
-title: Linux Bash | DEVserv.ME
+title: Linux Bash | CRONje.ME
 ---
 ```sh
 .   ._..  ..  .\  /   .__ .__. __..  .   .  ..___
@@ -8,7 +8,7 @@ title: Linux Bash | DEVserv.ME
                                                  
 ```
 
-- This repo will become a sub-module of docs.devserv.me.
+- This repo will become a sub-module of docs.CRONje.ME.
 - Go to [./src/README.md](./src/README.md) for the root of this repo
 
 ## Synopsis
