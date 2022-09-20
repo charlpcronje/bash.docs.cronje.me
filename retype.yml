@@ -2,7 +2,7 @@ input: src
 output: public
 url: http://bash.docs.cronje.me
 branding:
-  title: CRONje.ME Bash Docs
+  title: CRONje.ME | Bash Scripting
   label: Docs
 favicon: ./favicon.png
 links:
